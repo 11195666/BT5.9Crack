@@ -5,6 +5,8 @@
 
 wget https://raw.githubusercontent.com/HugeName/BT5.9Crack/master/btpanel5.9.sh && chmod 755 btpanel5.9.sh && bash btpanel5.9.sh
 
+不行就换：
+https://raw.githubusercontent.com/luguo124/BT_Panel_5.9.1/master/update_pro.sh|bash
 —————————————————————————————————————————
 —————————————————————————————————————————
 —————————————————————————————————————————
